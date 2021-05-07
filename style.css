@@ -1,0 +1,64 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0px;
+    padding: 0px;
+    background-color: #021968;
+    color: black;
+}
+
+#title{
+    background-color: #021968;
+    color: white;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+
+#description{
+    text-align: center;
+}
+#text{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.container{
+    width: 65%;
+    height: 150%;
+    margin: auto;
+    background-color: #99ccff;
+    color: black;
+    padding: 15px;
+}
+#survey{
+    text-align: center;
+}
+
+.row-tab{
+    display: block;
+    padding-bottom: 6px;
+}
+
+.label-tab{
+    display: inline-block;
+    width: 44%;
+    text-align: right;
+    vertical-align: top;
+}
+
+.input-tab{
+    display: inline-block;
+    width: 54%;
+    text-align: left;
+}
+
+.select-tab{
+     display: inline-block;
+     width: 54%;
+     text-align: left;
+}
+
+.select-box{
+    padding: 5px, 0px
+}
